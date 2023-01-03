@@ -14,4 +14,10 @@ public class Utility {
 		System.out.println("abcmncbvjava");
 
 	}
+	public void m2(){
+
+		System.out.println("Utitlity m2():acv");
+		System.out.println("abcmncbvjava");
+
+	}
 }
