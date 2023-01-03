@@ -20,11 +20,18 @@ public class Utility {
 		System.out.println("abcmncbvjava");
 
 	}
+
 	
 	public void m4(){
 
 		System.out.println("Utitlity m4():vcf");
 		System.out.println("esde");
+	}
+
+	public void m3(){
+		
+		System.out.println("complete");
+
 
 	}
 }
